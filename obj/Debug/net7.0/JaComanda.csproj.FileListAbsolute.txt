@@ -1,0 +1,15 @@
+C:\Curso\JaComanda\bin\Debug\net7.0\JaComanda.exe
+C:\Curso\JaComanda\bin\Debug\net7.0\JaComanda.deps.json
+C:\Curso\JaComanda\bin\Debug\net7.0\JaComanda.runtimeconfig.json
+C:\Curso\JaComanda\bin\Debug\net7.0\JaComanda.dll
+C:\Curso\JaComanda\bin\Debug\net7.0\JaComanda.pdb
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.csproj.AssemblyReference.cache
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.AssemblyInfoInputs.cache
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.AssemblyInfo.cs
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.csproj.CoreCompileInputs.cache
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.dll
+C:\Curso\JaComanda\obj\Debug\net7.0\refint\JaComanda.dll
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.pdb
+C:\Curso\JaComanda\obj\Debug\net7.0\JaComanda.genruntimeconfig.cache
+C:\Curso\JaComanda\obj\Debug\net7.0\ref\JaComanda.dll
